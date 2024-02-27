@@ -1,0 +1,42 @@
+﻿prompt,response
+What is our company’s definition of 'Gender'?,"Gender is defined as a spectrum of identities that may include men, women, women non-binary or other."
+What is our company’s definition of 'URT'?,"URT is defined as African American, Black, Hispanic, Latinx, Native American, Native Hawaiian, Other Pacific Islander and Two or more races"
+What is trailing employee turnover or attrition rate?,"The percentage of the group that left over the past X months, accounting for changes in the size of the group during that period. Calculated as number of exits over the past X months divided by average headcount (over the past X months)"
+What is annualized employee turnover or attrition rate?,Typically a monthly attrition rate multiplied by 12 to make comparisons with annual/T12 attrition rates easier. Calculated as monthly attrition rate * 12 
+What is YTD employee turnover or attrition rate?,"A trailing X-month attririon rate, where the period starts at the beginning of the year and X is the number of completed momths this year so far. Calculated as number of exits over the past X months divided by average headcount (over the past X months)"
+How is 'Employee Net Promoter Score (eNPS)' measured?,"The 'Employee Net Promoter Score' is measured by asking employees, on a scale from 0 to 10, how likely they are to recommend the company as a place to work. Responses are used to classify employees as Promoters, Passives, or Detractors."
+What is Offer Acceptance Rate?,The number of candidates who accept an offer divided by the number of offer letters the organization extends 
+What is Cost per hire?,Total internal and external hiring costs then dividing that total by the number of employees hired in a given period.
+What is time to hire?,The average number of days between when a job is posted and when a candidate accepts the offer
+What is Time to Productivity?,The time it takes for new hires to become acclimated in the organization and start working at full productivity.
+Who are high performers?,High performers or top talent are defined as per the top performance ratings given during the annual performance cycle.
+What is Absence Rate?,"The average number of days employees are absent in a given time period, not including approved PTO"
+What is Training Completion Rate?,"The number of employees who completed a given training divided by the total number of employees, then multiplied by 100 to get a percentage."
+What is Time to Completion for training?,The average amount of time it takes for an employee to complete a given training program.
+What are Training Expenses per Employee?,The total cost of your organization’s training courses and programs divided by the total number of employees.
+What is quality of hire?,"Quality of hire is typically evaluated based on several criteria, including the new employee’s job performance, their contribution to achieving team or organizational goals, how well they fit with the company culture, and their retention rate over time."
+What is new hire turnover?,It is calculated as  # of new hires who have left the organization during period divided by # of new hires who from that same period 
+What is Time since last promotion?,The average time in months since the last internal promotion.
+What is employee net promoter score?,The percentage of promoters subtracted by the percentage of detractors
+What is time to fill?,"Time to fill measures the time for the entire hiring process, from when a job request is made to when an offer is accepted."
+What is career path ratio?,Total number of promotions divided by all role changes (promotions plus lateral movements)
+What is total compensation?,"Total Compensation' includes all forms of financial returns and tangible services and benefits employees receive as part of an employment relationship, which may include salary, bonuses, benefits, and any other perks."
+What is internal promotion rate?,"The rate at which employees are promoted within the company, indicating opportunities for career growth and employee development."
+What is succession planning rate?,The percentage of key positions that have an identified and prepared successor in case of employee turnover.
+What is workforce utilization?,This metric assesses how effectively the organization uses its human resources to achieve business goals.
+What is Employee wellness participation?,"The percentage of employees who participate in the company’s wellness programs, reflecting on workplace health and well-being initiatives"
+What is 360-Degree Feedback Completion Rate?,"The percentage of completed 360-degree feedback assessments out of the total requested, indicating the involvement of employees in development processes."
+What is Leadership Effectiveness Index?,"An assessment score that measures the impact and quality of leaders within the organization, often derived from subordinate reviews and business performance indicators."
+What is Organizational Climate Score?,"A composite metric that reflects employees' perceptions of the work environment, including factors like managerial support, team cohesion, and communication effectiveness."
+What is Voluntary Termination Rate?,"The rate at which employees voluntarily leave the company, which can be indicative of overall job satisfaction and competitiveness of the workplace."
+What is Employee Lifetime Value (ELTV)?,"A projection of the total value an employee is expected to generate during their tenure with the company, including productivity, referrals, and influence."
+What is Overtime Hours Rate?,"The ratio of overtime hours worked to regular hours, which can signal operational efficiency and employee workload balance."
+What is Gender Pay Gap?,It measures the average difference in compensation between male and female employees across various roles in the organization.
+What is Employee Benefit Utilization Rate?,"The percentage of employees who take advantage of at least one of the company-provided benefits, which can indicate the perceived value of these benefits."
+What is Average Training Hours per Employee?,"It is the the average number of training hours provided to each employee over a certain period, reflecting the company's commitment to employee development."
+What is Employee Mobility Rate?,"The rate at which employees move within the organization, either through promotions, transfers, or lateral moves, showing the fluidity and career progression opportunities within the company."
+What is Internal Job Filling Rate?,"The percentage of open positions that are filled by current employees, indicating the organization's ability to provide career progression opportunities to its workforce."
+What is Diversity and Inclusion Score?,"A composite metric that measures the representation and equitable treatment of diverse groups within the organization, including race, gender, age, disability, and other demographics."
+What is Workforce Stability Index (WSI)?,"A measure of the stability of the workforce, calculated by comparing the number of employees with tenure beyond a certain threshold relative to the total number of employees."
+What is Succession Planning Readiness?,A metric that assesses the readiness of the organization to fill critical roles through internal talent pipelines in the event of employee turnover.
+What is Health and Safety Incident Rate?,"The frequency of work-related injuries, illnesses, or fatalities normalized per a standard amount of work hours (e.g., per 100,000 work hours)"
